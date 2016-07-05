@@ -1,6 +1,6 @@
 # Program minimus
 
-   ↓rst ↓hwb ↑rst ↑hwb
+    ↓rst ↓hwb ↑rst ↑hwb
    sudo make flash
 
 # Data sheets
