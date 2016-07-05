@@ -19,11 +19,9 @@ http://rlab.org.uk/wiki/Projects/Minimus32
 
 http://jamie.lentin.co.uk/embedded/minimus
 
-# Wiring
-
-![pinout](minimus-pinout.jpeg)
-
 # Schematics
 
-![Schematics](minimus32.pdf)
+[Schematics](minimus32.pdf)
+
+![pinout](minimus-pinout.jpeg)
 
