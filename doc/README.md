@@ -1,7 +1,13 @@
 # Program minimus
 
-    ↓rst ↓hwb ↑rst ↑hwb
+   ↓rst ↓hwb ↑rst ↑hwb
    sudo make flash
+
+# Data sheets
+
+http://www.atmel.com/Images/doc7707.pdf
+
+http://www.atmel.com/Images/doc7799.pdf
 
 # Reference sites
 
